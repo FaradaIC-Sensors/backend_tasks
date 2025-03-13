@@ -37,4 +37,5 @@ Design a downlink packet functionality for the network server.
 The client should be able to schedule downlink packets from the web-app and phone app
 via the business application and these packets should be transferred to the devices via the network server.
 
-Include the API design that would allow the business application to communicate with the network server for downlink scheduling. 
+Include the API design that would allow the business application to communicate with the network server for downlink scheduling.
+Recommeded response length is around 2-3 thousands symbols.
